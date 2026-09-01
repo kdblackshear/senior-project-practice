@@ -8,3 +8,14 @@ Complete the introductory GitHub Skills exercise covering:
   Pull Requests
 
 Then, use my new learned skills to complete the practice assignment.
+
+------------------------------------------
+
+Student Developer Profile
+
+Name: Kahlyn Blackshear
+Technology Interest: Cybersecuirty
+Senior Project Skill Goal: Code Development Using AI
+
+Workflow:
+Branch → Code → Commit → Push → Pull Request → Review → Merge
