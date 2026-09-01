@@ -1,5 +1,7 @@
 print("Senior Project Developer Profile")
 
+print(" ")
+
 print("Name: Kahlyn Blackshear")
 
 print("Major: Computer Science")
